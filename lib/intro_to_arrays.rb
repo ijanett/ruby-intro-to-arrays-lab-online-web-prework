@@ -28,3 +28,4 @@ end
 
 def length_of_array(array)
   @south_east_asia.count
+end
