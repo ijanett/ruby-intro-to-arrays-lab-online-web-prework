@@ -12,3 +12,4 @@ end
 
 def third_element(array)
   @taylor_swift[2]
+end
